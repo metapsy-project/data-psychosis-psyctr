@@ -1,27 +1,32 @@
 [
     {
-        "name": "Dorien Smit",
-        "orcid": "0000-0003-0874-5413"
+        "name": "Edel Mc Glanaghy",
+        "orcid": "0000-0001-9092-8862"
     },
     {
-        "name": "Clara Miguel",
-        "orcid": "0000-0001-5563-5896"
+        "name": "David Turner",
     },
     {
-        "name": "Janna Vrijsen",
-        "orcid": "0000-0003-0317-6696"
+        "name": "Georgina A. Davis ",
     },
      {
-        "name": "Bart Groeneweg"
+        "name": "Helen Sharpe "
+         "orcid": "0000-0001-6980-1699"
     },
     {
-        "name": "Jan Spijker",
-        "orcid": "0000-0003-1480-9647"
-    },
-    
+        "name": "Nadine Dougall",
+        "orcid": "0000-0003-3462-6960"
+     },
     {
-        "name": "Pim Cuijpers",
-        "orcid": "0000-0001-5497-2743"
+        "name": "Paul Morris",
+        "orcid": "0000-0001-8467-1669"
+    },
+    {
+        "name": "Wendy Prentice",
+        "orcid": "0000-0002-1440-639X"
+    },
+    {
+        "name": "Paul Hutton",
+        "orcid": "0000-0001-8946-823X"
     }
-    
 ]
