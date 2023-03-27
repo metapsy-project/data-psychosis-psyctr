@@ -1,10 +1,9 @@
 {
-    "database.hits": 3901,
-    "additional.records": 8,
-    "database.hits.duplicates.removed": 3455,
-    "records.screened": 3455,
-    "full.text.assessed.for.eligibility": 133,
-    "full.text.excluded.reasons": 103
+    "database.hits": 21856,
+    "database.hits.duplicates.removed": 21082,
+    "records.screened": 21082,
+    "full.text.assessed.for.eligibility": 1328,
+    "full.text.excluded.reasons": 1234
     {
         "Different type of intervention": 26,
         "Different population": 15,
