@@ -5,19 +5,18 @@
     "full.text.assessed.for.eligibility": 1328,
     "full.text.excluded.reasons": 1234
     {
-        "Different type of intervention": 26,
-        "Different population": 15,
-        "Design": 6,
-        "Type of comparator": 1,
-        "Other types of outcomes": 9,
-        "Conference abstracts": 11,
-        "Companion papers": 13,
-        "Dissertations": 2,
-        "Full-text not available": 3,
-        "Not enough data for effect sizes": 6,
-        "Duplicate": 1,
-        "Relatives of patients with mental disorders": 10,
-        "included only in systematic review": 2
+        "Wrong intervention": 192,
+        "Wrong study design (including non randomised trials)": 160,
+        "Wrong outcome": 159,
+        "Wrong patient population": 115,
+        "Conference, secondary paper or protocol": 254,
+        "Not English language": 92,
+        "Not an intervention trial": 84,
+        "Duplicate": 74,
+        "Relevant but no data": 37,
+        "CR with no symptom outcome": 30,
+        "Not available": 18,
+        "Other": 19,
     },
-    "included": 28
+    "included": 94
 }
