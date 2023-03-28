@@ -1,47 +1,65 @@
-**PubMed**
+**Simultaneous search of Medline R, Embase and Pychinfo using Ovid**
 ---
-Block 1:
-
-((Peer*[tiab] OR buddy[tiab] OR buddies[tiab] OR “mutual help”[tiab] OR “mutual support”[tiab] OR “social support”[tiab] OR “Peer-based*”[tiab] OR “Peer support*”[tiab] OR “Peer-led*”[tiab] OR “Peer-provided*”[tiab] OR “Peer-run*”[tiab] OR “Peer to peer*”[tiab]) AND (intervent*[tiab] OR therap*[tiab] OR coach*[tiab] OR counsel*[tiab] OR program*[tiab] OR service*[tiab] OR “Self-help group*”[tiab])) OR “Mutual Support*”[tiab] OR “Mutual help*”[tiab] OR “Shared medical appointment*”[tiab] OR “Patient to patient*”[tiab] OR “Peer self-management*”[tiab] OR “Support group*”[tiab] OR “Support program*”[tiab] OR “Support intervention*”[tiab] OR ((online[tiab] OR internet*[tiab]) AND (forum[tiab] OR group[tiab] OR communit*[tiab] OR discussion[tiab] OR board[tiab]) AND (support[tiab] OR “mutual help”[tiab] OR “peer”[tiab] OR “buddy”[tiab] OR “buddies”[tiab])) OR ((“Self-help groups”[MeSH] OR “Self-management”[MeSH]) AND (“Peer”[tiab] OR buddy[tiab] OR buddies[tiab] OR “mutual help”[tiab] OR “mutual support”[tiab]))
+1:
+psychotherapy.mp OR exp Psychotherapy, Rational-Emotive/ or exp Psychotherapy/ or exp Psychotherapy, Multiple/ or exp Psychotherapy, Group/ or exp Psychotherapy, Brief/ or exp Psychotherapy, Psychodynamic/ OR psychological intervention.mp OR exp Cognitive Therapy/ OR exp Behavior Therapy/ OR behavio*r therapy.mp OR cognitive therapy.mp Or CBT.mp OR exp Family Therapy/ OR family therapy.mp OR cognitive remediation.mp OR social skills training.mp OR sensory art therapies.mp OR exp sensory art therapies/ OR art therapy.mp OR exp Art therapy/ OR psychoeducation*.mp OR exp Patient Education as Topic/ OR psychoanalytic therapy.mp OR exp Psychoanalytic Therapy/ OR counse*ling.mp OR Directive Counselling OR exp Counselling/ OR Distance Counselling/ OR supportive therapy.mp Or befriending.mp or psychosocial intervention.mp 
 
 AND
 
-Block 2: 
-
-“mental health*”[tiab] OR “Mental Health”[Mesh] OR “mental disorder*”[tiab] OR “Mental disorders”[Mesh] OR “mental diagnos*”[tiab] OR “mental symptom*”[tiab] OR “mentally ill*”[tiab] OR “mental illness*”[tiab] OR “mental problem*”[tiab] OR “mental disease*”[tiab] OR “psychological disorder*”[tiab] OR “psychological symptom*”[tiab] OR “psychological diagnos*”[tiab] OR “psychological illness*”[tiab] OR “psychological disease*”[tiab] OR “psychological problem*”[tiab] OR “psychological patient*”[tiab] OR “Psychiatric symptom*”[tiab] OR “psychiatric disorder*”[tiab] OR “psychiatric diagnos*”[tiab] OR “psychiatric illness*”[tiab] OR “psychiatric disease*”[tiab] OR “psychiatric problem*”[tiab] OR “psychiatric patients”[tiab] OR “behavioural disorder*”[tiab] OR “behavioral disorder*”[tiab] OR “behaviour disorder*”[tiab] OR “behavior disorder*”[tiab] OR “psychological distress*”[tiab] OR “Mental distress*”[tiab] OR “Mentally distress*”[tiab] OR “Mentally Ill Persons”[Mesh] OR “Axis I disorder*”[tiab] OR “Axis 1 disorder*”[tiab] OR “affective disorder*”[tiab] OR “anxiet*”[tiab] OR “agoraphob*”[tiab] OR “neurotic disorder*”[tiab] OR “obsessive compulsive*”[tiab] OR “ocd”[tiab] OR “panic*”[tiab] OR “phobi*”[tiab] OR “gad”[tiab] OR "bipolar*"[tiab] OR “eating disorder*”[tiab] OR “anorexi*”[tiab] OR “Bulimi*”[tiab] OR “Mood disorder*”[tiab] OR “depress*”[tiab] OR “dysthym*”[tiab] OR “personality disorder*”[tiab] OR "psychotic*"[tiab] OR “psychosis*”[tiab] OR “schizophren*”[tiab] OR “psychosis”[tiab] OR "somatoform disorder*"[tiab] OR “trauma*”[tiab] OR “posttraumatic stress”[tiab] OR “post-traumatic stress” OR "ptsd"[tiab]
-
-Limits: RCTs
-
-**Embase**
----
-
-Block 1:
-
-((Peer*:ti,ab OR buddy:ti,ab OR buddies:ti,ab OR ‘mutual help’:ti,ab OR ‘mutual support’:ti,ab OR ‘social support’:ti,ab OR ‘Peer-based*’:ti,ab OR ‘Peer support*’:ti,ab OR ‘Peer-led*’:ti,ab OR ‘Peer-provided*’:ti,ab OR ‘Peer-run*’:ti,ab OR ‘Peer to peer*’:ti,ab) AND (intervent*:ti,ab OR therap*:ti,ab OR coach*:ti,ab OR counsel*:ti,ab OR program*:ti,ab OR service*:ti,ab OR ‘Self-help group*’:ti,ab)) OR ‘Mutual Support*’:ti,ab OR ‘Mutual help*’:ti,ab OR ‘Shared medical appointment*’:ti,ab OR ‘Patient to patient*’:ti,ab OR ‘Peer self-management*’:ti,ab OR ‘Support group*’:ti,ab OR ‘Support program*’:ti,ab OR ‘Support intervention*’:ti,ab OR ((online:ti,ab OR internet*:ti,ab) AND (forum:ti,ab OR group:ti,ab OR communit*:ti,ab OR discussion:ti,ab OR board:ti,ab) AND (support:ti,ab OR ‘mutual help’:ti,ab OR ‘peer’:ti,ab OR ‘buddy’:ti,ab OR ‘buddies’:ti,ab)) OR ((‘Self care’/exp OR ‘psychosocial care’/exp OR ‘self help’/exp) AND (‘Peer’:ti,ab OR buddy:ti,ab OR buddies:ti,ab OR ‘mutual help’:ti,ab OR “mutual support”:ti,ab))
+2: 
+exp SCHIZOPHRENIA/ or exp SCHIZOPHRENIA, CATATONIC/ or exp SCHIZOPHRENIA, CHILDHOOD/ or exp SCHIZOPHRENIA, DISORGANIZED/ or exp SCHIZOPHRENIA, PARANOID/ or Disorders with Psychotic Features/ or exp Psychotic Disorders/ or exp Paranoid Disorders/ or schizo*.mp or psychotic*.mp or psychos*.mp or psychoses.mp
 
 AND
 
-Block 2: 
-
-‘mental health*’:ti,ab OR ‘mental health’/exp OR ‘mental disorder*’:ti,ab OR ‘mental disease’/exp OR ‘mental diagnos*’:ti,ab OR ‘mental symptom*’:ti,ab OR ‘mentally ill*’:ti,ab OR ‘mental illness*’:ti,ab OR ‘mental problem*’:ti,ab OR ‘mental disease*’:ti,ab OR ‘psychological disorder*’:ti,ab OR ‘psychological symptom*’:ti,ab OR ‘psychological diagnos*’:ti,ab OR ‘psychological illness*’:ti,ab OR ‘psychological disease*’:ti,ab OR ‘psychological problem*’:ti,ab OR ‘psychological patient*’:ti,ab OR ‘Psychiatric symptom*’:ti,ab OR ‘psychiatric disorder*’:ti,ab OR ‘psychiatric diagnos*’:ti,ab OR ‘psychiatric illness*’:ti,ab OR ‘psychiatric disease*’:ti,ab OR ‘psychiatric problem*’:ti,ab OR ‘psychiatric patients’:ti,ab OR ‘behavioural disorder*’:ti,ab OR ‘behavioral disorder*’:ti,ab OR ‘behaviour disorder*’:ti,ab OR ‘behavior disorder*’:ti,ab OR ‘psychological distress*’:ti,ab OR ‘Mental distress*’:ti,ab OR ‘Mentally distress*’:ti,ab OR ‘mental patient’/exp OR ‘Axis I disorder*’:ti,ab OR ‘Axis 1 disorder*’:ti,ab OR ‘affective disorder*’:ti,ab OR ‘anxiet*’:ti,ab OR ‘agoraphob*’:ti,ab OR ‘neurotic disorder*’:ti,ab OR ‘obsessive compulsive*’:ti,ab OR ‘ocd’:ti,ab OR ‘panic*’:ti,ab OR ‘phobi*’:ti,ab OR ‘gad’:ti,ab OR ‘bipolar*’:ti,ab OR ‘eating disorder*’:ti,ab OR ‘anorexi*’:ti,ab OR ‘Bulimi*’:ti,ab OR ‘Mood disorder*’:ti,ab OR ‘depress*’:ti,ab OR ‘dysthym*’:ti,ab OR ‘personality disorder*’:ti,ab OR ‘psychotic*’:ti,ab OR ‘psychosis*’:ti,ab OR ‘schizophren*’:ti,ab OR ‘psychosis’:ti,ab OR ‘somatoform disorder*’:ti,ab OR ‘trauma*’:ti,ab OR ‘posttraumatic stress’:ti,ab OR ‘post-traumatic stress’ OR ‘ptsd’:ti,ab
-
-Limits: RCTs
-
-**PsycINFO**
----
-
-Block 1: 
-
-((Peer*.ti,ab. OR buddy.ti,ab. OR buddies.ti,ab. OR “mutual help”.ti,ab. OR “mutual support”.ti,ab. OR “social support”.ti,ab. OR “peer-based*”.ti,ab. OR “peer support*”.ti,ab. OR “Peer-led*”.ti,ab. OR “Peer-provided*”.ti,ab. OR “Peer-run*”.ti,ab. OR “Peer to peer*”.ti,ab.) AND (intervent*.ti,ab. OR therap*.ti,ab. OR coach*.ti,ab. OR counsel*.ti,ab. OR program*.ti,ab. OR service*.ti,ab. OR “Self-help group*”.ti,ab.)) OR “Mutual Support*”.ti,ab. OR “Mutual help*”.ti,ab. OR “Shared medical appointment*”.ti,ab. OR “Patient to patient*”.ti,ab. OR “Peer self-management*”.ti,ab. OR “Support group*”.ti,ab. OR “Support program*”.ti,ab. OR “Support intervention*”.ti,ab. OR ((online.ti,ab. OR internet*.ti,ab.) AND (forum.ti,ab. OR group.ti,ab. OR communit*.ti,ab. OR discussion.ti,ab. OR board.ti,ab.) AND (support.ti,ab. OR “mutual help”.ti,ab. OR “peer”.ti,ab. OR “buddy”.ti,ab. OR “buddies”.ti,ab.)) OR ((exp Social Support/ or exp Support Groups/ or exp Self-Help Techniques/ or exp Social Support/ or exp Support Groups/ or exp Online Community/ or exp Online Social Networks/ or exp Group Discussion/ or exp Social Groups/ or exp Social Group Work/ or exp Self-Management/) AND (exp Peers/ or Peer*.ti,ab. OR buddy.ti,ab. OR buddies.ti,ab. OR “mutual help”.ti,ab. OR “mutual support”.ti,ab.))
+3:
+randomi$ed controlled trial.pt OR controlled clinical trial .pt OR randomi$ed.tw OR randomly.tw OR trial.tw OR groups.tw 
 
 AND
 
-Block 2: 
+4:
+animals/ NOT humans/ 
 
-exp Mental Health/ or exp Mental Disorders/ or exp Chronic Mental Illness or exp Psychiatric Patients/ or exp Psychiatric Symptoms/ or exp Personality Disorders/ or exp Psychodiagnosis/ or exp Mood Disorder/ or exp Psychopathology OR mental health*.ti,ab. OR mental disorder*.ti,ab. OR mental diagnos*.ti,ab. OR mental symptom*.ti,ab. OR mentally ill*.ti,ab. OR mental illness*.ti,ab. OR mental problem*.ti,ab. OR mental disease*.ti,ab. OR psychological disorder*.ti,ab. OR psychological symptom*.ti,ab. OR psychological diagnos*.ti,ab. OR psychological illness*.ti,ab. OR psychological disease*.ti,ab. OR psychological problem*.ti,ab. OR psychological patient*.ti,ab. OR Psychiatric symptom*.ti,ab. OR psychiatric disorder*.ti,ab. OR psychiatric diagnos*.ti,ab. OR psychiatric illness*.ti,ab. OR psychiatric disease*.ti,ab. OR psychiatric problem*.ti,ab. OR psychiatric patients.ti,ab. OR psychological distress*.ti,ab. OR Mental distress*.ti,ab. OR Mentally distress*.ti,ab. OR Axis I disorder*.ti,ab. OR Axis 1 disorder*.ti,ab. OR affective disorder*.ti,ab. OR anxiet*.ti,ab. OR agoraphob*.ti,ab. OR neurotic disorder*.ti,ab. OR obsessive compulsive*.ti,ab. OR ocd.ti,ab. OR panic*.ti,ab. OR phobi*.ti,ab. OR gad.ti,ab. OR bipolar*.ti,ab. OR eating disorder*.ti,ab. OR anorexi*.ti,ab. OR Bulimi*.ti,ab. OR Mood disorder*.ti,ab. OR depress*.ti,ab. OR dysthym*.ti,ab. OR personality disorder*.ti,ab. OR psychotic*.ti,ab. OR psychosis*.ti,ab. OR schizophren*.ti,ab. OR psychosis.ti,ab. OR somatoform disorder*.ti,ab. OR trauma*.ti,ab. OR posttraumatic stress.ti,ab. OR post-traumatic stress.ti,ab OR ptsd.ti,ab.
+AND
 
+5:
+3NOT4 
 
+AND
 
-Limits: RCTs
+6:
+1AND2AND5 
 
+**CENTRAL database **
+---
 
+1:
+Psychotherapy OR psychological intervention OR behavio*r therapy OR cognitive therapy Or CBT OR family therapy OR cognitive remediation OR social skills training OR sensory art therapies OR art therapy OR psychoeducation* OR psychoanalytic therapy OR counse*ling OR Directive Counselling OR Distance Counselling OR supportive therapy Or befriending or psychosocial intervention 
+
+AND
+
+2: 
+MeSH descriptor: [Psychotherapy] explode all trees 
+
+AND
+
+3:
+#1or#2 
+
+AND
+
+4:
+MeSH descriptor: [Schizophrenia] explode all trees 
+
+AND
+
+5:
+Schizo* or Psychotic or psychos* or psychoses 
+
+AND
+
+6:
+#4 or #5 
+
+AND
+
+7:
+#3 and #6 Publication Year from 1860 to 2016, in Trials 
