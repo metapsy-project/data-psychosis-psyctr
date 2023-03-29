@@ -52,6 +52,6 @@
 ".id":	"MetapsyTools generated variable: Unique identifier for a trial arm comparison/row",
 ".g":	"MetapsyTools generated variable: Calculated effect size (Hedges' g)",
 ".g_se":	"MetapsyTools generated variable: Standard error of Hedges' g",
-"event_arm1",	
-"event_arm2"	
+"event_arm1":	"Number of events (responders, remission, deterioration cases) in the first trial arm",
+"event_arm2": "Number of events (responders, remission, deterioration cases) in the second trial arm"
 }
