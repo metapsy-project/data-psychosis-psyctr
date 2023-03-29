@@ -3,7 +3,7 @@
     "database.hits.duplicates.removed": 21082,
     "records.screened": 21082,
     "full.text.assessed.for.eligibility": 1328,
-    "full.text.excluded.reasons": 1234
+    "full.text.excluded.reasons": 
     {
         "Wrong intervention": 192,
         "Wrong study design (including non randomised trials)": 160,
