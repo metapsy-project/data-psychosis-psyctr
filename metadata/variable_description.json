@@ -48,7 +48,7 @@
 "Attrition bias; incomplete outcome data": 	"Domain 4 (Attrition bias) - incomplete outcome data", 
 "Performance bias; blinding of ppts and personnel": 	"Domain 5(Performance bias) - blinding of ppts and personnel", 
 "Detection bias; blinding of outcome assessment": 	"Domain 6(Detection bias) - blinding of outcome assessment", 
-"rob":	"Overall risk of bias rating (low vs high)",
+"rob":	"Overall risk of bias rating (low=1 vs high=0)",
 ".id":	"MetapsyTools generated variable: Unique identifier for a trial arm comparison/row",
 ".g":	"MetapsyTools generated variable: Calculated effect size (Hedges' g)",
 ".g_se":	"MetapsyTools generated variable: Standard error of Hedges' g",
