@@ -19,5 +19,6 @@
         "Not available": 18,
         "Other": 19
     },
-    "included": 94
+    "included in full database": 94, 
+    "included in psy vs ctr dataset": 80
 }
