@@ -17,8 +17,9 @@
         "Relevant but no data": 37,
         "CR with no symptom outcome": 30,
         "Not available": 18,
-        "Other": 19
+        "Other": 19,
+        " Not included in analysis": 4,
+        "Included in NMA but not in psy vs ctr dataset": 10,
     },
-    "included in full database": 94, 
-    "included in psy vs ctr dataset": 80
+    "included ": 80
 }
