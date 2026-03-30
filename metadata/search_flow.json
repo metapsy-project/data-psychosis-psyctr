@@ -1,20 +1,21 @@
 {
-    "database.hits": 5433,
-    "database.hits.duplicates.removed": 4493,
-    "records.screened": 4493,
-    "full.text.assessed.for.eligibility": 597,
+    "database.hits": 28104,
+    "database.hits.duplicates.removed": 26258,
+    "records.screened": 26258,
+    "full.text.assessed.for.eligibility": 2027,
     "full.text.excluded.reasons": 
     {
-        "Wrong intervention": 98,
-        "Wrong study design (including non randomised trials)": 11,
-        "Wrong outcome": 70,
-        "Wrong patient population": 70,
-        "Conference, secondary paper or protocol": 216,
-        "Not English language": 1,
-        "Duplicate": 40,
-        "Relevant but no data": 11,
-        "Not available": 14,
-        "Other": 1
+        "Wrong intervention": 300,
+        "Wrong study design (including non randomised trials)": 178,
+        "Wrong outcome": 245,
+        "Wrong patient population": 203,
+        "Conference, secondary paper or protocol": 499,
+        "Not English language": 93,
+        "Duplicate": 116,
+        "Relevant but no data": 50,
+        "Not available": 37,
+        "Not an intervention trial": 84,
+        "Other": 55
     },
-    "included": 65
+    "included": 167
 }
