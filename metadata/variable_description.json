@@ -24,8 +24,8 @@
 "n_change_arm2":	"Number of participants arm 2 (change scores)",
 "event_arm1":	"Number of events (responders, remission, deterioration cases) in the first trial arm",
 "event_arm2": "Number of events (responders, remission, deterioration cases) in the second trial arm"
-"total_n_arm1":	"Total number of participants arm 1 (event data)",
-"total_n_arm2":	"Total number of participants arm 2 (event data)",
+"totaln_arm1":	"Total number of participants arm 1 (event data)",
+"totaln_arm2":	"Total number of participants arm 2 (event data)",
 "N_randomized_total":	"Total number of randomized participants in the trial",
 "year":	"Year of publication",
 "time":	"The measurement point at which the outcome was obtained (e.g., post or follow-up)",
