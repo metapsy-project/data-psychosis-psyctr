@@ -10,7 +10,7 @@
  
 #1 AND #2
 Limit: RCT
-range 01-01-2016 – 01-05-2024
+range 01-01-2016 – 01-03-2025
 
 
 ***EMBASE***
@@ -43,7 +43,7 @@ range 01-01-2016 – 01-05-2024
 #7 AND 'randomized controlled trial'/de Limit: RCT’s
 
 #9
-#8 AND (2017:py OR 2018:py OR 2019:py OR 2020:py OR 2021:py OR 2022:py OR 2023:py)
+#8 AND (2017:py OR 2018:py OR 2019:py OR 2020:py OR 2021:py OR 2022:py OR 2023:py OR 2024:py OR 2025:py)
 
 
 ***PsycINFO***
@@ -57,4 +57,4 @@ DE "Schizophrenia" OR DE "Acute Schizophrenia" OR DE "Catatonic Schizophrenia" O
 #3
 #1 AND #2
 
-Limits: Methodology is ME=(treatment outcome/clinical trial), Publication date: 2017-2024
+Limits: Methodology is ME=(treatment outcome/clinical trial), Publication date: 2017-2025
