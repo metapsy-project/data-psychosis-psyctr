@@ -23,7 +23,7 @@
 "n_change_arm1":	"Number of participants arm 1 (change scores)",
 "n_change_arm2":	"Number of participants arm 2 (change scores)",
 "event_arm1":	"Number of events (responders, remission, deterioration cases) in the first trial arm",
-"event_arm2": "Number of events (responders, remission, deterioration cases) in the second trial arm"
+"event_arm2": "Number of events (responders, remission, deterioration cases) in the second trial arm",
 "totaln_arm1":	"Total number of participants arm 1 (event data)",
 "totaln_arm2":	"Total number of participants arm 2 (event data)",
 "N_randomized_total":	"Total number of randomized participants in the trial",
@@ -51,5 +51,5 @@
 "rob":	"Overall risk of bias rating (low risk=0, some concern=1, high risk=2)",
 ".id":	"MetapsyTools generated variable: Unique identifier for a trial arm comparison/row",
 ".g":	"MetapsyTools generated variable: Calculated effect size (Hedges' g)",
-".g_se":	"MetapsyTools generated variable: Standard error of Hedges' g",
+".g_se":	"MetapsyTools generated variable: Standard error of Hedges' g"
 }
