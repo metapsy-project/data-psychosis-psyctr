@@ -1,0 +1,71 @@
+{
+    "population": {
+        "inclusion": [
+            "Adults aged 18-65 years of all sexes",
+            "Participants diagnosed with schizophrenia or a related psychotic disorder (schizophreniform disorder, schizoaffective disorder, delusional disorder), including first-episode psychosis, drug-resistant symptoms, and participants receiving concurrent treatment as usual and/or pharmacotherapy"
+        ],
+        "exclusion": [
+            "Trials targeting young or older adults specifically (e.g., upper age limit below 40 or lower age limit above 40)",
+            "Trials in which participants with a diagnosis of bipolar disorder, substance-induced psychosis, postpartum psychosis, or dementia accounted for more than 10% of the sample",
+            "Trials in which participants were recruited from specific populations (e.g., veterans, forensic settings) accounted for more than 50% of the sample",
+            "Trials in which participants had a comorbid serious medical illness or other psychiatric disorders (except anxiety or depression)",
+            "Trials with participants at ultra/high risk of developing a psychotic disorder (e.g., attenuated psychotic symptoms, brief limited intermittent psychotic symptoms)",
+            "Trials targeting participants with primary negative symptoms"
+        ]
+    },
+    "intervention": {
+        "inclusion": [
+            "Psychological interventions that are theory-driven, goal-oriented, and aimed at reducing psychotic symptoms and improving functioning (e.g., cognitive-behavioral therapy for psychosis [CBTp], social skills training, family-based interventions, mindfulness-based interventions, metacognitive training, cognitive remediation)",
+            "Interventions delivered in individual, group, computer-based, (semi-)guided online, or blended formats"
+        ],
+        "exclusion": [
+            "Trials comparing two types of psychological interventions (e.g., CBTp vs metacognitive training) or trials comparing variations of the same intervention (e.g., three vs six months of CBTp)",
+            "Trials with art, music, physical exercise, animal-assisted, medication-only, or alternative-medicine interventions",
+            "Interventions focused on vocational programs or delivered within service-wide interventions, unless both groups received the same enhanced service differing only by the specific psychological intervention",
+            "Family-based interventions in which the person with psychosis was not included",
+            "Psychoeducation-based interventions without an active treatment component (e.g., medication-adherence only)",
+            "Trials without the involvement of a therapist (e.g., non-guided online interventions, cognitive remediation with only computerized training sets)",
+            "Trials in which the intervention lasts longer than 12 months",
+            "Behavioral interventions that would now be considered unethical (e.g., self-shock)"
+        ]
+    },
+    "comparison": {
+        "inclusion": [
+            "Waitlist control",
+            "Befriending",
+            "Non-specific supportive counseling",
+            "Non-specific psychoeducation",
+            "Treatment as usual (TAU), categorised into four levels: TAU0 (medication only with no follow-up); TAU1 (medication with routine check-up appointments or follow-up); TAU2 (case management and/or access to multidisciplinary team services such as social work, occupational therapy, and psychosocial interventions); TAU3 (TAU2 plus specified psychological interventions such as CBT). When TAU was not described, the country of the trial (psychiatrists per 100,000 population, per WHO Global Health Observatory) and its publication year were used to impute the likely TAU level"
+        ],
+        "exclusion": []
+    },
+    "outcome": {
+        "inclusion": [
+            "Total, positive, and/or negative scores on the Positive and Negative Syndrome Scale (PANSS; Kay, 1987)",
+            "Total, positive, and/or negative scores on the Brief Psychiatric Rating Scale (BPRS; Overall, 1962)",
+            "Negative-symptom scores on the Scale for the Assessment of Negative Symptoms (SANS; Andreasen, 1984)",
+            "Positive-symptom scores on the Scale for the Assessment of Positive Symptoms (SAPS; Andreasen, 1984)",
+            "Other established clinical scales measuring total, positive, and/or negative psychotic symptoms (e.g., CPRS, BNSS, CAINS)"
+        ],
+        "exclusion": [
+            "Symptom outcomes reported using a subscale of an instrument (e.g., SAPS Delusions Subscale)",
+            "Symptom outcomes other than total, positive, and/or negative scores (e.g., PSYRATS hallucinations and delusions scores)",
+            "Outcome data other than psychotic symptoms (e.g., functioning, weight management, relapse prevention)"
+        ]
+    },
+    "study_design": {
+        "inclusion": [
+            "Randomized controlled trials (RCTs); given the nature of psychological interventions, open-label RCTs (for both participants and the person delivering the intervention) are included",
+            "Cluster RCTs (in which groups of participants, e.g., hospitals, are randomly assigned to study arms rather than individual participants)"
+        ],
+        "exclusion": [
+            "Non-randomized trials (e.g., case series)",
+            "Quasi-randomized trials (e.g., allocation by date of birth)",
+            "Crossover RCTs (in which participants receive different treatments in sequence)"
+        ]
+    },
+    "other": {
+        "inclusion": [],
+        "exclusion": []
+    }
+}
