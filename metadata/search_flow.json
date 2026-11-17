@@ -11,7 +11,7 @@
         "Relevant but no data": 50,
         "Conference, secondary paper or protocol": 498,
         "Not an intervention trial": 84,
-        "Head-to-head trial": 23
+        "Head-to-head trial": 23,
         "Wrong study design (including non-randomized trials)": 178,
         "Wrong patient population": 203,
         "Wrong intervention": 301,
